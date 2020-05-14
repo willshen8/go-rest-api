@@ -1,3 +1,5 @@
+![Go](https://github.com/willshen8/go-rest-api/workflows/Go/badge.svg?branch=master)
+
 # Puppy REST API Web Server
 
 This is a REST web server for hosting puppies, the available routes for this server are:
