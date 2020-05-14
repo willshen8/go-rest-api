@@ -3,8 +3,8 @@ package main
 import (
 	"net/http"
 
-	"github.com/anz-bank/go-course/11_notify/willshen8/pkg/puppy"
 	"github.com/sirupsen/logrus"
+	"github.com/willshen8/go-rest-api/pkg/puppy"
 )
 
 func main() {
